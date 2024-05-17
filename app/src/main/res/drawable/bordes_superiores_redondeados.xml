@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:andriod="http://schemas.android.com/apk/res/android">
+    <solid andriod:color="@color/amarillo"/>
+
+    <corners
+        andriod:topLeftRadius="8dp"
+        andriod:topRightRadius="8dp"
+        andriod:bottomLeftRadius="0dp"
+        andriod:bottomRightRadius="0dp"
+        andriod:radius="12dp" />
+</shape>
